@@ -4,6 +4,8 @@
 
 - Benchmarking
 
+- Documentation
+
 - Examples
 
 - Utilities
