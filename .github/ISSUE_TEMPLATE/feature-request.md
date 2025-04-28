@@ -1,5 +1,5 @@
 ---
-name: Feature request (in development)
+name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE] "
 labels: enhancement
@@ -7,13 +7,16 @@ assignees: ''
 
 ---
 
-# This Template is currently in development
-
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the problem is.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
+(If you are familiar with the ReqIF, please describe the new feature related to the Schema, SpecObjects, Attributes, Relations, ...)
+
+**Is this feature related to a specific Requirement Management System?**
+- RMS: [e.g. Polarion]
+- Version [e.g. 22]
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
