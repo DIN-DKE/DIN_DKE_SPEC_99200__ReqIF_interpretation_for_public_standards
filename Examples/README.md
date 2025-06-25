@@ -3,3 +3,12 @@
 test set of ReqIF™ files as examples for publicly available technical rules or publicly available legislative regulations
 
 **WARNING: THESE EXAMPLES ARE ONLY TEST VARIANTS. TO PRESERVE EVENTUAL COPYRIGHTS OF THE ORIGINAL DOCUMENT, THE CONTENT OF THESE VARIANTS HAVE BEEN INVALIDATED. USE ONLY FOR TESTING BUT NOT IN PRACTISE!**
+
+## Selection of example files
+
+| File | Contents | 
+| --- | --- | 
+| 2006~42~eg.zip |  | 
+| 811.zip | | 
+| 99200.zip | RegIF of the DIN DKE SPEC 99200 "ReqIF interpretation for public standards" | 
+| DIN_VDE_0132__VDE_0132__2018-07_7104561.reqifz | Standard: "Firefighting and technical assistance in or near electrical installations" | 
