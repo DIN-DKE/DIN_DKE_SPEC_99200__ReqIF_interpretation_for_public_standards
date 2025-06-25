@@ -6,7 +6,7 @@ test set of ReqIF™ files as examples for publicly available technical rules or
 
 ## Selection of example files
 
-| File | Contents | 
+| File | Document | 
 | --- | --- | 
 | 2006-42-eg.zip |  | 
 | 811.zip | | 
