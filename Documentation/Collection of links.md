@@ -5,7 +5,7 @@ This specification defines a Uniform Resource Name namespace for UUIDs (Universa
 
 - [ICS International Classification for Standards - edition 7. ISO: Genève, 2015](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)  
 Catalogue of all ICS numbers
-The ICS (International Classification for Standards) is intended to serve as a structure for catalogues of international, regional and national standards and other normative documents, and as a basis for standing-order systems for international, regional and national standards.
+The ICS (International Classification for Standards) is intended to serve as a structure for catalogues of international, regional and national standards and other normative documents, and as a basis for standing-order systems for international, regional and national standards.
 
 - [MathML Core. W3C Working Draft 27 November 2023](https://www.w3.org/TR/mathml-core/)  
 This specification defines a core subset of Mathematical Markup Language, or MathML.
